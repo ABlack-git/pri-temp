@@ -1,0 +1,27 @@
+.data-component {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.data-container {
+    display: flex;
+    gap: 10px;
+}
+.combined-data-container {
+    display: flex;
+    gap: 20px;
+}
+.data-icon {
+    width: 114px;
+    height: 114px;
+}
+.data-text {
+    text-align: center;
+    font-size: 100px;
+}
+.data-title {
+    text-align: center;
+}
+body {
+    font-family: Arial
+}
